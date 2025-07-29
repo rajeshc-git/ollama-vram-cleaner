@@ -43,15 +43,11 @@ You’ll see a list of loaded models and confirmation once they’re successfull
 ✅ Simply unloads from memory, just like closing a tab
 ✅ Re-load anytime using your regular Ollama commands
 
-🌍 Cross-Platform
+🌍 OS-Platform
 🪟 Windows
 
-🍎 macOS
-
-🐧 Linux
-
 🛠 Requirements
-Python 3.7+
+Python 3+
 
 Ollama properly installed and configured
 
